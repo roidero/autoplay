@@ -2,8 +2,8 @@
     "id": "autoplay",
     "name": "Autoplayer",
     "version": "1.0.0",
-    "authors": ["flintfennekin"],
-    "description": "Adds the ability to give control of your tribe to a bot for the current turn, with different buttons for different difficulties of bots.",
+    "authors": ["flintfennekin (Main Dev)", "Fapingvin (Contributor)"],
+    "description": "Adds the ability to give control of your tribe to a bot, and take control back again later.",
     "dependencies": [
         {
             "id": "polytopia",
